@@ -317,3 +317,26 @@ El guion final deberá respetar:
 Este archivo queda abierto.
 
 Nuevas decisiones editoriales podrán añadirse durante la escritura del guion, la revisión del paquete RSS, la búsqueda bibliográfica, la edición sonora o la preparación de derivados.
+
+
+## Decisión 016 · Estructura final en ocho movimientos
+
+**Fecha:** 07 de mayo de 2026  
+**Estado:** Aprobada  
+
+Se decide que el guion final del EPI-001 se organizará en ocho movimientos narrativos principales.
+
+La razón editorial es mantener una estructura clara, sonora y útil para timestamps, show notes y navegación del episodio, evitando una arquitectura excesivamente fragmentada en el primer episodio.
+
+Los ocho movimientos aprobados son:
+
+1. La salud deja huellas.
+2. La pregunta que abre el podcast.
+3. El caso educativo: documentos que existen, comprensión que falta.
+4. Mirar el problema como sistema.
+5. Ciencia de datos antes del computador.
+6. Una herramienta para leer mejor: la trazabilidad formativa.
+7. Otros lugares donde el sistema deja señales.
+8. Cierre: la ciudad de noche y el puente al dato.
+
+Esta estructura conserva los elementos clave del episodio, pero los agrupa en una progresión más limpia y usable para RSS, Captivate.fm, YouTube y archivo documental.
