@@ -310,6 +310,8 @@ audiopodcast-periodismo-academico-sonoro/
 │   ├── 04_gestion_referencias.md
 │   ├── 05_backlog_episodios.md
 │   └── 06_criterios_cierre_publicacion.md
+│   └── 07_nombre_identidad_marca.md
+│   └── 08_Marketing_y_difusio.md
 ├── episodios/
 │   └── EPI-001_empezar-a-mirar-la-salud-con-ojos-de-datos/
 │       ├── 00_ficha_maestra.md
