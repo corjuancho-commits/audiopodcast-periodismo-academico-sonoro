@@ -1,119 +1,16 @@
 # Guion final · EPI-001
 
-## Metadatos de grabación
+## Ver la salud con ojos de datos
 
 **ID:** EPI-001  
-**Título:** Empezar a mirar la salud con ojos de datos  
-**Duración estimada:** 32 a 38 minutos  
-**Formato:** Monólogo académico narrativo  
-**Tono:** Sereno, claro, sobrio, profesional y reflexivo  
-**Versión:** 0.1  
-**Estado:** En escritura  
-
----
-# Estructura del episodio
-## Apertura sonora
-
-[Música de entrada: sobria, suave, instrumental, sin dramatismo. 8 a 12 segundos.]
-
----
-
-## Movimiento 1 · La salud deja huellas
-
-Escenas pequeñas de salud, educación, registros, pacientes, docentes, familias, auditoría y coordinación.
-
-Función narrativa: instalar la idea de que la salud produce datos todo el tiempo, incluso cuando no los piensa como datos.
-
----
-
-## Movimiento 2 · La pregunta que abre el podcast
-
-Presentación autoral breve de Juan David y formulación de la pregunta rectora.
-
-Función narrativa: construir autoridad situada sin convertirlo en hoja de vida.
-
-Pregunta rectora:
-
-¿Cómo podemos decidir mejor en salud si muchas veces ni siquiera estamos leyendo bien lo que ocurre?
-
----
-
-## Movimiento 3 · El caso educativo: documentos que existen, comprensión que falta
-
-Narración del caso personal sobre formación de auxiliares de enfermería.
-
-Función narrativa: convertir el caso educativo en eje central del episodio.
-
-Idea fuerza:
-
-Había información, pero no necesariamente una lectura completa del sistema formativo.
-
----
-
-## Movimiento 4 · Mirar el problema como sistema
-
-Ampliación del caso hacia la cadena sistémica:
-
-Formación del talento humano → diseño institucional → marco normativo → documentos curriculares → evidencia de aprendizaje → competencia profesional → operación asistencial → seguridad del paciente → decisión institucional → aprendizaje del sistema.
-
-Función narrativa: evitar que el caso suene a queja y convertirlo en lectura estructural.
-
----
-
-## Movimiento 5 · Ciencia de datos antes del computador
-
-Introducción de la ciencia de datos como forma de mirar, no como tecnología.
-
-Función narrativa: explicar que antes del algoritmo están la pregunta, el proceso, la fuente, la calidad de la información, la interpretación y la decisión.
-
----
-
-## Movimiento 6 · Una herramienta para leer mejor: la trazabilidad formativa
-
-Presentación oral de la cadena de trazabilidad formativa.
-
-Función narrativa: entregar utilidad práctica para docentes, coordinadores, administrativos, auditores y personal asistencial.
-
-Preguntas núcleo:
-
-¿Qué competencia se quiere garantizar?  
-¿Qué mínimos no son negociables?  
-¿Qué evidencia demuestra aprendizaje real?  
-¿Qué datos deja el proceso?  
-¿Qué decisión toma la institución con esos datos?
-
----
-
-## Movimiento 7 · Otros lugares donde el sistema deja señales
-
-Ejemplos breves complementarios: glosas, eventos adversos, registros clínicos, citas perdidas, transporte asistencial, indicadores, administración de medicamentos o toma de muestras.
-
-Función narrativa: mostrar que la lógica del caso educativo se replica en otros procesos de salud.
-
----
-
-## Movimiento 8 · Cierre: la ciudad de noche y el puente al dato
-
-Imagen final de la institución de salud como ciudad de noche.
-
-Función narrativa: cerrar con una imagen sonora potente y conectar naturalmente con el Episodio 2.
-
-Puente:
-
-En el próximo episodio iremos al origen: qué es un dato, cómo nace, cuándo sirve, cuándo engaña y por qué en salud un mal dato puede afectar una decisión real.
-
-# Guion final · EPI-001
-
-## Empezar a mirar la salud con ojos de datos
-
-**ID:** EPI-001  
+**Podcast:** Dato y Salud  
 **Tipo:** Episodio fundacional / manifiesto aplicado / apertura de serie  
 **Línea temática:** Ciencia de datos fácil para profesionales de la salud  
 **Formato:** Monólogo académico narrativo  
 **Duración estimada:** 32 a 38 minutos  
 **Tono:** Sereno, claro, sobrio, profesional, humano y reflexivo  
-**Versión:** 1.0  
-**Estado:** Listo para primera grabación  
+**Versión:** 1.1  
+**Estado:** Guion final ajustado con identidad sonora de marca  
 
 ---
 
@@ -123,6 +20,22 @@ En el próximo episodio iremos al origen: qué es un dato, cómo nace, cuándo s
 
 [Pausa breve.]
 
+Hablemos del dato… y salud.
+
+Esto es **Dato y Salud**, un podcast para pensar la salud, los datos y la vida real con rigor, calma y claridad.
+
+Mi nombre es Juan David Cortés Martínez. Soy enfermero, magíster en Salud Pública, docente, y he conocido la salud desde el cuidado, la formación, la gestión, los indicadores y las decisiones que muchas veces deben tomarse con información incompleta.
+
+Este espacio nace de una pregunta sencilla, pero profunda:
+
+¿cómo podemos decidir mejor en salud si muchas veces ni siquiera estamos leyendo bien lo que ocurre?
+
+[Pausa breve.]
+
+Hoy empezamos con una idea fundacional:
+
+antes de hablar de algoritmos, inteligencia artificial o tableros, necesitamos aprender a mirar.
+
 ---
 
 ## Movimiento 1 · La salud deja huellas
@@ -131,7 +44,7 @@ Hay escenas en salud que parecen pequeñas.
 
 Tan pequeñas que a veces pasan desapercibidas.
 
-Una auxiliar de enfermería intenta reconstruir a qué hora llegó un paciente.
+Una auxiliar de enfermería intenta recordar a qué hora llegó un paciente y qué cuidados le ha brindado.
 
 Un enfermero revisa una historia clínica y encuentra una nota incompleta.
 
@@ -139,13 +52,9 @@ Una coordinadora pregunta por qué se retrasó una atención, pero cada persona 
 
 Un auditor intenta diferenciar si una glosa nació por un error documental, por un fallo asistencial o por un proceso mal diseñado.
 
-Un paciente espera.
+En urgencias por ejemplo, los pacientes esperan, la familia pregunta, el equipo responde bajo presión.
 
-Una familia pregunta.
-
-Un equipo responde bajo presión.
-
-Y en medio de todo eso aparecen registros, llamadas, autorizaciones, firmas, notas, tiempos, formularios, agendas, soportes, indicadores, facturas, bases de Excel, historias clínicas y decisiones.
+Y en medio de todo eso hay registros, llamadas, autorizaciones, firmas, notas, tiempos, formularios, agendas, soportes, indicadores, facturas, bases de Excel, historias clínicas y decisiones.
 
 [Pausa.]
 
@@ -153,9 +62,9 @@ Pero hay otra escena que también pertenece a la salud, aunque muchas veces no l
 
 Un docente entra a un salón de clase.
 
-Frente a él hay estudiantes de auxiliar de enfermería.
+Frente a él hay estudiantes de un programa de salud, técnico o profesional.
 
-Personas que, en algunos meses, estarán tomando signos vitales, acompañando pacientes, registrando información, preparando materiales, administrando cuidados básicos, comunicando alertas, siguiendo protocolos y participando en decisiones que pueden afectar la seguridad de alguien.
+Personas que, en algunos años o meses, estarán diagnosticando, tratando, tomando signos vitales, acompañando pacientes, registrando información, preparando materiales, administrando cuidados, comunicando alertas, siguiendo protocolos y participando en decisiones que pueden afectar la seguridad y la vida de alguien.
 
 Sobre la mesa hay una guía.
 
@@ -191,25 +100,13 @@ Pero entonces aparece una pregunta incómoda:
 
 La salud deja huellas todo el tiempo.
 
-Las deja en una nota clínica.
+En una nota clínica, una autorización, una factura.
 
-Las deja en una autorización.
+Las deja en una demora, una queja, una evaluación.
 
-Las deja en una factura.
-
-Las deja en una demora.
-
-Las deja en una queja.
-
-Las deja en una evaluación.
-
-Las deja en una guía docente.
-
-Las deja en una asistencia firmada.
+También en una guía docente o protocolo con bibliografía y en una asistencia firmada.
 
 Las deja en una foto de clase.
-
-Las deja en una bibliografía.
 
 Las deja en una competencia que alguien escribió alguna vez, pero que quizá nadie volvió a mirar con suficiente cuidado.
 
@@ -217,47 +114,37 @@ Y esa es una de las ideas que quiero abrir en este primer episodio:
 
 la salud produce datos todo el tiempo.
 
-Pero producir datos no significa comprender.
+Pero producir datos no significa comprender lo que dicen.
 
-Registrar no significa entender.
+Registrarlos, no siempre significa entenderlos.
 
 Tener documentos no significa tener un sistema que aprende.
 
-Y decidir mejor exige algo anterior a la tecnología, anterior a la inteligencia artificial, anterior al tablero, anterior al algoritmo.
+Y decidir mejor exige algo anterior a la tecnología, muy por encima de la inteligencia artificial, anterior al tablero o al algoritmo.
 
 Exige aprender a mirar.
 
 [Pausa.]
 
-Bienvenidos.
-
 ---
 
 ## Movimiento 2 · La pregunta que abre el podcast
 
-Mi nombre es Juan David Cortés Martínez.
-
-Soy enfermero, formado en la Universidad de los Llanos, en Villavicencio, y magíster en Salud Pública por la Universidad Santo Tomás.
-
-He transitado distintos escenarios de la salud: la atención clínica, la salud pública, la docencia, la formación de talento humano, la gestión académica, el análisis de indicadores, la calidad, la operación institucional y la construcción de procesos educativos en salud.
-
-Y desde esos lugares he visto algo que se repite.
-
 La salud está llena de información.
 
-Pero no siempre sabe qué hacer con ella.
+Pero no siempre se sabe qué hacer con ella.
 
-A veces hay registros, pero no lectura.
+A veces hay registros, pero nadie los lee.
 
-Hay indicadores, pero no interpretación.
+indicadores, pero no interpretan la realidad.
 
-Hay formatos, pero no comprensión.
+llenamos formatos, pero no no sabemos para qué tantos y con los mismos datos.
 
 Hay reportes, pero no aprendizaje.
 
 Hay reuniones, pero no decisiones suficientemente informadas.
 
-Hay datos, sí.
+Datos, sí.
 
 Pero muchas veces los datos están fragmentados, incompletos, desconectados o usados solo para cumplir.
 
@@ -265,65 +152,49 @@ Y cuando la información se fragmenta, también se fragmenta la decisión.
 
 [Pausa.]
 
-Este podcast nace de una pregunta que me ha acompañado desde distintos lugares de mi vida profesional:
+Antes de entrar de lleno en el tema, pensemos algo:
 
-¿Cómo podemos decidir mejor en salud si muchas veces ni siquiera estamos leyendo bien lo que ocurre?
+¿cuántas decisiones en salud se toman a diario con información incompleta, fragmentada o mal interpretada?
 
 [Pausa breve.]
 
-No nace de la fascinación por la tecnología.
+Esa pregunta importa porque en salud no decidimos sobre objetos neutros.
 
-No nace de la moda de la inteligencia artificial.
+Decidimos sobre tiempos de espera, continuidad del cuidado, formación de personas.
 
-No nace de la idea de que todo se resuelve con un tablero bonito, una base de datos limpia o un modelo predictivo.
+Sobre seguridad del paciente además con recursos limitados.
 
-La tecnología importa.
+Sobre procesos que pueden fallar en silencio, indicadores que a veces tranquilizan, pero ocultan la realidad.
 
-La inteligencia artificial importa.
+Este podcast no nace de la fascinación por la tecnología, ni por la moda de la inteligencia artificial.
 
-La ciencia de datos importa.
+Tampoco de la idea de que todo se resuelve con un tablero bonito, una base de datos limpia o un modelo predictivo.
+
+La tecnología importa, La inteligencia artificial importa, La ciencia de datos importa.
 
 Pero antes de cualquier herramienta hay una pregunta más profunda:
 
 ¿qué estamos mirando?
-
 ¿Desde dónde lo estamos mirando?
-
 ¿Qué huellas nos está dejando el sistema?
-
 ¿Qué parte de la realidad alcanzamos a ver?
-
 ¿Qué parte estamos dejando por fuera?
 
-Y qué decisiones estamos tomando con esa lectura incompleta.
+Y... qué decisiones estamos tomando con esa lectura incompleta.
 
 [Pausa.]
 
-Este será un espacio para hablar de ciencia de datos, inteligencia artificial, salud pública, enfermería, educación, gestión, indicadores, procesos, instituciones y decisiones.
+Este será un espacio para hablar de ciencia de datos, inteligencia artificial, salud pública, enfermería y medicina, educación, gestión, indicadores, procesos, instituciones y decisiones.
 
-Pero no desde el tecnicismo vacío.
+Pero no desde el tecnicismo que nadie entiende. Ni desde la distancia fría de quien mira la salud como si fuera solamente una base de datos.
 
-No desde la distancia fría de quien mira la salud como si fuera solamente una base de datos.
+Vamos a hablar desde el terreno, los servicios, las aulas.
 
-Vamos a hablar desde el terreno.
-
-Desde los servicios.
-
-Desde las aulas.
-
-Desde las rutas de atención.
-
-Desde la carga documental.
-
-Desde las decisiones que se toman bajo presión.
-
-Desde los errores que se repiten.
-
-Desde los indicadores que se reportan, pero no siempre se comprenden.
+Desde las rutas de atención, la carga documental, las decisiones que se toman bajo presión y los errores que se repiten.
 
 Desde el dato que parece pequeño, pero que puede cambiar la lectura completa de un problema.
 
-Porque ese será uno de los principios de este podcast:
+Porque ese será uno de los principios de **Dato y Salud**:
 
 la ciencia de datos no comienza en el computador.
 
@@ -333,31 +204,14 @@ Comienza en una forma más rigurosa, ética y estructurada de mirar la realidad.
 
 ## Movimiento 3 · El caso educativo: documentos que existen, comprensión que falta
 
-Quiero contar una escena.
-
-No para señalar a una institución.
-
-No para convertir este episodio en una queja.
-
-No para decir que todo está mal.
+Quiero contar una escena. No para señalar a una institución, ni convertir este episodio en una queja y tampoco para decir que todo está mal.
 
 La cuento porque, para mí, esta escena fue una forma de entender algo más grande.
 
 Durante una etapa de mi vida, mientras estudiaba alemán, tuve la oportunidad de trabajar como docente en una escuela de formación de auxiliares de enfermería.
 
 Era una institución que, a primera vista, tenía estructura.
-
-Tenía estudiantes.
-
-Tenía coordinación académica.
-
-Tenía módulos.
-
-Tenía formatos.
-
-Tenía guías.
-
-Tenía documentos.
+Estudiantes, coordinación académica, módulos, formatos, guías, documentos. y...
 
 Tenía un lugar reconocible dentro del sector.
 
@@ -369,9 +223,9 @@ Pero al entrar en los documentos, la realidad empezó a mostrar otras capas.
 
 [Pausa.]
 
-Recuerdo recibir un módulo para enseñar.
+recibí un módulo para enseñar a personas que poco después estarían en escenarios reales de cuidado..
 
-Un módulo importante, relacionado con la formación de personas que después estarían en escenarios reales de cuidado.
+Un módulo importante, relacionado con medicamentos 
 
 Abrí la guía.
 
@@ -379,31 +233,17 @@ Encontré títulos.
 
 Encontré temas.
 
-Encontré una estructura formal.
+Encontré una estructura formal con competencias, criterios y palabras que, desde lejos, sonaban correctas: normativa vigente, protocolos, bioseguridad, procedimientos, cuidados, evidencias, evaluación.
 
-Había competencias.
+Pero al mirar con más detalle, empecé a sentir que eran tantas cosas que dudé en como priorizarlas.
 
-Había criterios.
+La guía no era realmente una ruta pedagógica. Era más bien un listado de temas.
 
-Había palabras que, desde lejos, sonaban correctas: normativa vigente, protocolos, bioseguridad, procedimientos, cuidados, evidencias, evaluación.
+Temas importantes, sí. Pero sin un norte suficientemente claro. amplios y sin una progresión evidente.
 
-Pero al mirar con más detalle, empecé a sentir que algo no cerraba.
+Sin una bibliografía más que robusta, clara o actual que me estructurara un marco de referencia que orientara de verdad la profundidad del contenido.
 
-La guía no era realmente una ruta pedagógica.
-
-Era más bien un listado de temas.
-
-Temas importantes, sí.
-
-Pero sin un norte suficientemente claro.
-
-Sin una progresión evidente.
-
-Sin una bibliografía robusta.
-
-Sin un marco de referencia que orientara de verdad la profundidad del contenido.
-
-Sin una respuesta clara a una pregunta básica:
+Sin una respuesta clara a una pregunta básica en los documentos:
 
 ¿qué debe saber hacer este estudiante, con seguridad, al terminar este proceso?
 
@@ -411,13 +251,13 @@ Sin una respuesta clara a una pregunta básica:
 
 Y entonces hice una pregunta que, en apariencia, era muy simple.
 
-Pregunté algo como:
+Pregunté a la coordinación académica, algo como:
 
-de todos estos títulos, de todos estos temas, de todo lo que aparece aquí, ¿qué debo enseñar realmente en el tiempo que tengo?
+de todos estos títulos, estos temas, de todo lo que aparece aquí, ¿qué debo enseñar realmente en el tiempo que tengo?
 
 La respuesta fue más o menos esta:
 
-nosotros no obligamos al docente a enseñar temas específicos, para no coartar su autonomía.
+No profe, nosotros no obligamos al docente a enseñar temas específicos, para no coartar su autonomía.
 
 [Pausa.]
 
@@ -429,23 +269,19 @@ Claro que lo es.
 
 Un docente no debe ser tratado como una máquina que repite contenidos.
 
-La experiencia, el criterio, la creatividad y la capacidad de adaptar una clase al grupo son parte fundamental de enseñar.
+La experiencia, criterio, creatividad y la capacidad de adaptar una clase al grupo son parte fundamental de enseñar.
 
 Pero la autonomía docente necesita un marco.
 
-Necesita un piso.
+Necesita un piso. Una estructura mínima.
 
-Necesita una estructura mínima.
+Necesita saber cuáles son los puntos que no se pueden omitir y distinguir lo esencial de lo complementario.
 
-Necesita saber cuáles son los puntos que no se pueden omitir.
-
-Necesita distinguir lo esencial de lo complementario.
-
-Necesita entender qué exige la competencia, qué exige la norma, qué exige la práctica y qué exige la seguridad del paciente.
+Necesita entender qué exige la competencia, qué la norma,  la práctica y qué exige la seguridad del paciente.
 
 Porque cuando ese marco no existe, o cuando existe solo de forma superficial, la autonomía puede convertirse en otra cosa.
 
-Puede convertirse en abandono.
+Puede convertirse en abandono, 
 
 [Pausa.]
 
@@ -655,7 +491,7 @@ Quizá falló una lectura institucional.
 
 Quizá falló la capacidad del sistema para saber qué estaba enseñando, qué estaba evaluando y qué estaba permitiendo avanzar.
 
-Aquí es donde empezar a mirar la salud con ojos de datos cambia la conversación.
+Aquí es donde empezar a ver la salud con ojos de datos cambia la conversación.
 
 Porque el dato no es solamente un número.
 
@@ -687,23 +523,13 @@ Una evidencia que demuestra asistencia, pero no aprendizaje.
 
 [Pausa breve.]
 
-Y cuando aprendemos a mirar así, la pregunta deja de ser únicamente:
+Cuando un servicio se retrasa, una historia queda incompleta o un indicador no explica lo que ocurre, ¿estamos viendo una falla puntual o una señal de que el sistema no está leyendo bien su propia realidad?
 
-¿quién cometió el error?
+[Pausa.]
 
-Y empieza a ser también:
+Esa pregunta no elimina la responsabilidad individual.
 
-¿qué huellas dejó el sistema antes de que ese error apareciera?
-
-¿Qué señales estaban ahí, pero nadie leyó?
-
-¿Qué documentos existían, pero no orientaban?
-
-¿Qué indicadores se reportaban, pero no se interpretaban?
-
-¿Qué procesos se cumplían, pero no producían aprendizaje?
-
-Esa diferencia es fundamental.
+Pero amplía la mirada.
 
 Porque en salud, culpar puede ser rápido.
 
@@ -865,7 +691,7 @@ Eso es parte del método.
 
 [Pausa.]
 
-Por eso este podcast no va a tratar la ciencia de datos como una técnica fría.
+Por eso **Dato y Salud** no va a tratar la ciencia de datos como una técnica fría.
 
 La va a tratar como una forma de mirar mejor.
 
@@ -1105,7 +931,7 @@ Cuando un equipo deja de culpar al individuo y empieza a mirar el proceso.
 
 Cuando una institución entiende que el dato no está para decorar informes, sino para orientar decisiones.
 
-Eso, para mí, es empezar a mirar con ojos de datos.
+Eso, para mí, es empezar a ver la salud con ojos de datos.
 
 ---
 
@@ -1221,21 +1047,21 @@ Pero una lectura de sistema pregunta:
 
 ¿Cuándo se asignó el móvil?
 
-La tripulación estaba completa.
+¿La tripulación estaba completa?
 
-La autorización estaba lista.
+¿La autorización estaba lista?
 
-La ruta era viable.
+¿La ruta era viable?
 
-El tráfico fue considerado.
+¿El tráfico fue considerado?
 
-El paciente estaba preparado.
+¿El paciente estaba preparado?
 
-La institución de origen demoró la entrega.
+¿La institución de origen demoró la entrega?
 
-El destino recibió a tiempo.
+¿El destino recibió a tiempo?
 
-La demora fue del trayecto o del proceso previo.
+¿La demora fue del trayecto o del proceso previo?
 
 Reconstruir esa cronología no es solo una tarea administrativa.
 
@@ -1461,6 +1287,12 @@ Son fragmentos de una realidad que necesita ser leída con más cuidado.
 
 [Pausa breve.]
 
+Te dejo una pregunta para continuar esta conversación:
+
+en tu experiencia, ¿qué dato de la salud se registra todos los días, pero casi nunca se analiza con la profundidad que merece?
+
+[Pausa breve.]
+
 En el próximo episodio vamos a ir al origen de todo.
 
 Vamos a preguntarnos:
@@ -1502,6 +1334,22 @@ O la forma en que entendemos a una población.
 Antes de hablar de modelos, algoritmos o inteligencia artificial, necesitamos mirar la materia prima.
 
 Necesitamos aprender a mirar el dato.
+
+[Pausa breve.]
+
+Esto fue **Dato y Salud**.
+
+Una conversación para mirar con más calma los datos, la salud y la vida real.
+
+Soy Juan David Cortés Martínez.
+
+Gracias por escuchar, por pensar conmigo y por hacer parte de este espacio.
+
+Si este episodio te dejó una pregunta, una incomodidad o una experiencia que vale la pena pensar, esa conversación también hace parte de **Dato y Salud**.
+
+Nos encontramos en el próximo episodio.
+
+Hasta entonces: hablemos del dato… y salud.
 
 [Música de cierre: sobria, suave, instrumental. 10 segundos.]
 
